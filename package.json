@@ -1,0 +1,18 @@
+{
+  "name": "pdfreader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "pdf-merger-js": "^4.3.0",
+    "pdfreader": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "yarn nodemon index.mjs"
+  },
+  "author": "",
+  "description": ""
+}
